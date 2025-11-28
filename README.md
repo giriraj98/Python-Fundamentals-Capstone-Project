@@ -1,6 +1,8 @@
 
 # Python-Fundamentals-Capstone-Project
 
+Data Cleaning & Analysis using Python | Capstone Project
+
 ## 📌Overview
 
 The Python Fundamentals Capstone Project is a hands-on, end-to-end data manipulation and analysis project designed to simulate real-world data processing workflows.
