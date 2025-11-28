@@ -1,4 +1,4 @@
-Data Cleaning & Analysis using Python | Capstone Project
+Data Cleaning & Analysis using Python
 # Python-Fundamentals-Capstone-Project
 
 ## 📌Overview
